@@ -178,3 +178,7 @@ For general background on broadcast-launched HbbTV applications, see the officia
 
 You may also want to document your exact broadcast/modulation setup separately, since this repository focuses on the application/toolkit side.
 
+## License
+
+This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
+
